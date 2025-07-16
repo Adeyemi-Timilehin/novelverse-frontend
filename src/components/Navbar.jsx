@@ -29,7 +29,7 @@ const Navbar = () => {
           <Link to="/" className="flex items-center space-x-2">
             <BookOpen className="h-8 w-8 text-purple-600" />
             <span className="novelverse-text-gradient text-2xl font-bold">
-              NovelVerse
+         NoveVerse
             </span>
           </Link>
 
