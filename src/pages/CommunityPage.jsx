@@ -298,21 +298,21 @@ const CommunityPage = () => {
                     <Users className="h-5 w-5 text-purple-600" />
                     <span className="text-gray-700">Active Members</span>
                   </div>
-                  <span className="font-bold text-gray-900">12,543</span>
+                  <span className="font-bold text-gray-900">1</span>
                 </div>
                 <div className="flex items-center justify-between">
                   <div className="flex items-center space-x-2">
                     <MessageCircle className="h-5 w-5 text-blue-600" />
                     <span className="text-gray-700">Discussions</span>
                   </div>
-                  <span className="font-bold text-gray-900">3,891</span>
+                  <span className="font-bold text-gray-900">0</span>
                 </div>
                 <div className="flex items-center justify-between">
                   <div className="flex items-center space-x-2">
                     <BookOpen className="h-5 w-5 text-green-600" />
                     <span className="text-gray-700">Novels Discussed</span>
                   </div>
-                  <span className="font-bold text-gray-900">247</span>
+                  <span className="font-bold text-gray-900">2</span>
                 </div>
               </div>
             </div>
